@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Usuario</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="fecha">Fecha</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="descripcion_contacto">Descripcion Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="titulo_detalle">Confimar Datos</string>
+    <string name="nombre_detalle">Melyna:</string>
+    <string name="fecha_detalle">Fecha Nacimiento:</string>
+    <string name="telefono_detalle">Tef:</string>
+    <string name="email_detalle">Email:</string>
+    <string name="pnombre">Nombre</string>
+    <string name="editar_detalle">Editar Datos</string>
+
+
+</resources>
